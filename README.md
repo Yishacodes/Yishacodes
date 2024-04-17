@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+ my name is Yisha
+ currently learning javascript
+ lets have fun here!
 <!--
 **Yishacodes/Yishacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
